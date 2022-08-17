@@ -11,3 +11,5 @@ A collection of papers on predictive coding for deep learning.
 - **Temporal Predictive Coding For Model-Based Planning In Latent Space** Tung Nguyen, Rui Shu, Tuan Pham, Hung Bui, Stefano Ermon 2021 [[pdf]](https://arxiv.org/pdf/2106.07156.pdf)
 
 - **Memory-augmented Dense Predictive Coding for Video Representation Learning** Tengda Han, Weidi Xie, Andrew Zisserman 2020 [[pdf]](https://arxiv.org/pdf/2008.01065.pdf)
+
+- **Predictive Coding, Variational Autoencoders, and Biological Connections** Joseph Marino 2021 [[pdf]](https://arxiv.org/pdf/2011.07464.pdf)
