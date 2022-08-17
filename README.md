@@ -1,5 +1,5 @@
 # awsome-deep-predictive-coding
-A collection of papers on predictive coding for deep learning
+A collection of papers on predictive coding for deep learning.
 
 ## Papers
 - **Representation Learning with Contrastive Predictive Coding** Aaron van den Oord, Yazhe Li, Oriol Vinyals 2019 [[pdf]](https://arxiv.org/pdf/1807.03748.pdf)
@@ -11,4 +11,3 @@ A collection of papers on predictive coding for deep learning
 - **Temporal Predictive Coding For Model-Based Planning In Latent Space** Tung Nguyen, Rui Shu, Tuan Pham, Hung Bui, Stefano Ermon 2021 [[pdf]](https://arxiv.org/pdf/2106.07156.pdf)
 
 - **Memory-augmented Dense Predictive Coding for Video Representation Learning** Tengda Han, Weidi Xie, Andrew Zisserman 2020 [[pdf]](https://arxiv.org/pdf/2008.01065.pdf)
-~           
